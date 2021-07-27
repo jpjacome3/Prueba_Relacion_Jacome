@@ -8,6 +8,7 @@ package dominio;
 public class Materia {
     
     private String nombre;
+    private Profesor profesor;
     
     private Estudiante[] estudiantes;
 
