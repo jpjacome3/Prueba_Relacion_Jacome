@@ -7,7 +7,7 @@ package dominio;
  */
 public class Director {
     private String nombre;
-    
+    Facultad facutad;
 
     public Director(String nombre) {
         this.nombre = nombre;

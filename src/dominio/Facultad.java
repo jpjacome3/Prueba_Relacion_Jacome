@@ -7,9 +7,9 @@ package dominio;
  */
 public class Facultad {
     private String nombre;
-    Profesor [] profesores;
-    Carrera [] carreras;
-    Director[] directores;
+    private Profesor [] profesores;
+    private Carrera [] carreras;
+    private Director[] directores;
 
     
 

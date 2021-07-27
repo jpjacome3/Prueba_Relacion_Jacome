@@ -7,6 +7,8 @@ package dominio;
  */
 public class Profesor {
     private String nombre;
+    private Materia[]materias;
+    
     
     
     public Profesor(String nombre){
